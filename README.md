@@ -18,6 +18,6 @@ This project analyzes a large-scale HR dataset to demonstrate big data engineeri
 - **Visualization:** Matplotlib, Seaborn
 
 ## Repository Structure
-- Cloud_Infrastructure_Analysis.ipynb: Full analysis, modeling (Random Forest & K-Means), and visualization code.
-- Project_Presentation.pdf: Project presentation and architectural overview.
-- dataset4.txt: Source data used for the analysis.
+- `Cloud_Infrastructure_Analysis.ipynb`: Full analysis, modeling (Random Forest & K-Means), and visualization code.
+- `Project_Presentation.pdf`: Project presentation and architectural overview.
+- `dataset4.txt`: Source data used for the analysis.
