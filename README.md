@@ -1,7 +1,9 @@
 # Management and Engineering of Cloud Data Infrastructure - Final Project
 
+**Final Project (M.Sc. Data Science, HIT). HR Analytics using PySpark & Scikit-learn: Implementing Random Forest (Supervised) and K-Means (Unsupervised) models for workforce optimization and predictive performance analysis on distributed cloud architecture.**
+
 ## Overview
-This project analyzes a large-scale HR dataset using **PySpark** and **scikit-learn**. It demonstrates big data engineering principles such as distributed computing and scalable machine learning within a cloud-based architecture.
+This project analyzes a large-scale HR dataset to demonstrate big data engineering principles such as distributed computing, in-memory processing, and scalable machine learning within a cloud-based architecture.
 
 ## Key Features
 - **Scalable ETL:** Distributed data cleaning and transformation using PySpark.
